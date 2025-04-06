@@ -1,0 +1,34 @@
+# Build e arquivos binários
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Diretórios de build e intermediários
+Debug/
+Release/
+x64/
+
+# Configurações locais do Visual Studio
+.vs/
+
+# Arquivos de configuração do usuário
+*.vcxproj.user
+*.suo
+*.user
+
+# Banco de dados de navegação do Visual Studio
+*.VC.db
+
+# Arquivos criados por ferramenta de build
+*.tlog/
+
+# Backups ou arquivos temporários do sistema operacional
+*.bak
+*.old
+*.swp
